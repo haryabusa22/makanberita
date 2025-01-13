@@ -1,2 +1,2 @@
-# analisaberita
+# makanberita
 Berita harian MakanBerita
