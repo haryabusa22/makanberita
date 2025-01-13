@@ -1,2 +1,2 @@
 # analisaberita
-Berita harian AnalisaBerita
+Berita harian MakanBerita
